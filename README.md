@@ -1,1 +1,2 @@
-# ee
+int mohamed
+print mohamed
